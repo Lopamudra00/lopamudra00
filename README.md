@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lopamudra Mallick</h1>
-<h3 align="center">An artist whose the paint never dries!</h3>
+<h3 align="center">An artist whose paint never dries!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopamudra00&label=Profile%20views&color=0e75b6&style=flat" alt="lopamudra00" /> </p>
 
